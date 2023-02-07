@@ -1,2 +1,3 @@
 # Digit_recognizer
-Training Deep Learning with easy example: Recognizing hand written digits 
+* Deep Learning: implementation of convolutional neural network (CNN) with easy example: Recognizing hand-written digits 
+* using TensorFlow/Keras frameworks
